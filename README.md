@@ -66,11 +66,8 @@ Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/A
   </a>
  
   </a>
-    <a href="https://www.scaler.com/academy/profile">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
     </a>
-  <a href="https://www.scaler.com/academy/profile/33d1588dc7ff/">
+  <a href="https://www.scaler.com/academy/profile">
     <img src="https://img.shields.io/badge/Scaler-darkblue?style=for-the-badge" alt="Twitter Badge"/>
   </a>
   <br/>  <br/> <br/>
