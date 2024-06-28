@@ -61,7 +61,7 @@ Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/A
   <a href="mailto:rax091013@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.linkedin.com/in/prashant-srivastava-01a078237">
+  <a href="[www.linkedin.com/in/prashant-srivastava-01a078237](https://www.linkedin.com/in/prashant-srivastava-01a078237/)">
     <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
      <a href="https://github.com/prashhhant213">
