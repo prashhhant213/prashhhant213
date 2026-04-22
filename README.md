@@ -5,13 +5,13 @@
 </h1> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 👩‍💻 About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 
 <br/>
-  <p align='left'>- I am <b>Prashant Srivastava</b>, currently embarking on my Data Scientist journey from Scaler</p>
-  <p align='left'>- 💻I am a Data Analyst as well as 📱ML / AI enthusiast</p>
+  <p align='left'>- I am <b>Prashant Srivastava</b>, currently Business Analyst in Mensa Brands Technology</p>
+  <p align='left'>- 💻I am a Data Analyst as well as Business Analyst enthusiast</p>
   <p align='left'>- I love❤ to make exciting projects</p>
   <p align='left'>- I really enjoy learning🚀 new languages and libraries like Numpy, Pandas, Matplotlib, Seaborn and many more</p>
   <p align='left'>- I also love python🐍, SQL, Business Intelligence Tools like Tableau and Machine-Learning/Artificial-Intelligence</p>
-  <p align='left'>- 🔭 I have recently completed projects on Netflix, Aerofit, Target, Hypothesis Testing,  Descriptive Statistics & Probability (Customer Segmentation),  Confidence Interval and CLT (Sales Data Analysis) live projects</p>
-  <p align='left'>- 🌱 I’m currently learning to build Probability and Statistics Data analysis via Descriptive and Inferential statistical methods</p>
+  <p align='left'>- 🔭 I have recently completed projects in mensa brands one of them is data automation system using Selenium & Pandas. While I have worked on Netflix, Aerofit, Target, Hypothesis Testing,  Descriptive Statistics & Probability (Customer Segmentation),  Confidence Interval and CLT (Sales Data Analysis) live projects</p>
+  <p align='left'>- 🌱 I’m currently Business Analyst in Mensa Brands</p>
   <p align='left'> - For project or any informative discussion, connect on <b>LinkedIn</b>😎😇</p>
 </div>
 <br/>
